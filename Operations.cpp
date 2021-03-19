@@ -35,5 +35,5 @@ int exposant(int nb, int exp)
 
 int factoriel(int nb)
 {
-        cout << "factoriel" << endl;
+  
 }
