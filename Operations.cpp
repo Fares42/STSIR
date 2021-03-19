@@ -18,7 +18,22 @@ int soustraction(int a, int b)
 	return resultat;
 }
 
+
 int exposant(int nb, int exp)
 {
-	
+  int resultat, x;
+  
+  resultat=nb;
+  
+  while(x<exp)
+  {
+    resultat=resultat*nb;
+  }
+  return resultat;
+}
+
+
+int factoriel(int nb)
+{
+        cout << "factoriel" << endl;
 }
