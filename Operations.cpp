@@ -17,3 +17,8 @@ int soustraction(int a, int b)
 	
 	return resultat;
 }
+
+int factorie(int nb)
+{
+        
+}
